@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.Button?>
+
+<VBox spacing="10" xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml"
+      fx:controller="com.inventory.controller.MainController">
+    <TextField fx:id="nameField" promptText="Product Name"/>
+    <TextField fx:id="descField" promptText="Description"/>
+    <TextField fx:id="qtyField" promptText="Quantity"/>
+    <TextField fx:id="priceField" promptText="Unit Price"/>
+    <Button text="Save" onAction="#saveProduct"/>
+</VBox>
