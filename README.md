@@ -30,10 +30,10 @@ This application allows users to manage products efficiently with a clean graphi
 ![Main Screen](screenshorts/main_screen.png)
 
 ### Add Product
-![Add Product](screenshots/add_product.png)
+![Add Product](screenshorts/add_product.png)
 
 ### Product List
-![Product List](screenshots/product_list.png)
+![Product List](screenshorts/product_list.png)
 
 ---
 
