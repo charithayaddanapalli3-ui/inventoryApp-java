@@ -27,13 +27,13 @@ This application allows users to manage products efficiently with a clean graphi
 ## 📸 Screenshots
 
 ### Main Screen
-![Main Screen](inventoryApp-java/InventoryApp-java/screenshots/main_screen.png)
+![Main Screen](InventoryApp-java/screenshots/main_screen.png)
 
 ### Add Product
-![Add Product](inventoryApp-java/InventoryApp-java/screenshots/add_product.png)
+![Add Product](InventoryApp-java/screenshorts/add_product.png)
 
 ### Product List
-![Product List](inventoryApp-java/InventoryApp-java/screenshots/product_list.png)
+![Product List](InventoryApp-java/screenshots/product_list.png)
 
 ---
 
