@@ -33,7 +33,7 @@ This application allows users to manage products efficiently with a clean graphi
 ![Add Product](screenshots/add_product.png)
 
 ### Product List
-![Product List](screenshots/product_list(2).png)
+![Product List](screenshots/product_list.png)
 
 ---
 
@@ -45,3 +45,7 @@ This application allows users to manage products efficiently with a clean graphi
 - Maven
 - JavaFX configured
 
+### Steps
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/charithayaddanapalli3-ui/inventoryApp-java.git
