@@ -27,7 +27,7 @@ This application allows users to manage products efficiently with a clean graphi
 ## 📸 Screenshots
 
 ### Main Screen
-![Main Screen](screenshots/main_screen.png)
+![Main Screen](screenshorts/main_screen.png)
 
 ### Add Product
 ![Add Product](screenshots/add_product.png)
