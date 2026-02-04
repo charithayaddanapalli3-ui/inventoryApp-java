@@ -33,7 +33,7 @@ This application allows users to manage products efficiently with a clean graphi
 ![Add Product](screenshots/add_product.png)
 
 ### Product List
-![Product List](screenshots/product_list.png)
+![Product List](screenshots/product_list(2).png)
 
 ---
 
